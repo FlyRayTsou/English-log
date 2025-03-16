@@ -10,6 +10,15 @@
 |crop up|to happen or appear unexpectedly<br>意外發生；冒出；突然出現|Engineers need to have the ability to stay calm when some problems crop up.|
 |severity|seriousness<br>嚴重|Depending on the severity of the problem, we decide how to contact our clients.|
 |tweak|to change something slightly, especially in order to make it more correct, effective, or suitable<br>稍稍改進|We should slightly tweak the prompt to get more accurate results.|
+|phew|used when you are happy that something difficult or dangerous has finished or is not going to happen<br>（表示鬆一口氣、疲倦或覺得熱）啊！唷！唉！||
+|flicker|to shine with a light that is sometimes bright and sometimes weak<br>搖曳;閃爍||
+|kudos|致敬、喝采||
+|triage|初步處理、優先處理最緊急的問題||
+|symptom|any single problem that is caused by and shows a more serious and general problem<br>徵兆，徵候||
+|resurface|再次發生||
+|pantry|茶水間||
+|quirk|古怪之處||
+|in some instances|在某些情況下、有時||
 
 ## Business
 
