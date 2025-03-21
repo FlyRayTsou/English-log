@@ -20,6 +20,13 @@
 |quirk|古怪之處||
 |in some instances|在某些情況下、有時||
 
+
+## IT English
+| Idiom/Vocabulary | Meaning | Example Sentence |
+|---|---|---|
+|FYI|For your information|Reference: https://www.yesonlineeng.com/cea/|
+|holistic|dealing with or treating the whole of something or someone and not just a part<br>整體的，全面的|That way we have a holistic view of the project.|
+
 ## Business
 
 # Note
