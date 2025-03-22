@@ -22,6 +22,15 @@
 |go about something|to begin to do something or deal with something<br>著手做；開始做|How can we go about solving this problem?|
 |unanimous|it is formed or supported by everyone in a group.<br>（團體）意見一致的;（決定或裁決）一致通過的，獲得全體支援的|After a lengthy discussion we reached a unanimous decision on the proposal.|
 
+## Bizmates
+| Idiom/Vocabulary | Meaning | Example Sentence |
+|---|---|---|
+|Shoulder||The new company will shoulder my airplane tickets.<br>The previous company shouldered my apartment rent.<br>I shouldered my brother's tuition fee in school<br>The company will pay for ....<br>The company will cover my... |
+|foot the bill||The company will foot the bill of my flight.|
+|afford||We can afford to buy a house in Japan.|
+### dedication vs contribution
+Dedication seems more focused on investing time and effort, while contribution is more about the impact made.
+
 ## IT English
 | Idiom/Vocabulary | Meaning | Example Sentence |
 |---|---|---|
@@ -34,6 +43,9 @@
 |---|---|---|
 |hiccup||Generative AI delivers high-quality results and boosts efficiency, but you'll have to put up with occasional hiccups, like fake information.|
 |put up  with||Generative AI delivers high-quality results and boosts efficiency, but you'll have to put up with occasional hiccups, like fake information.|
+
+
+
 ## Ordinary
 | Idiom/Vocabulary | Meaning | Example Sentence |
 |---|---|---|
