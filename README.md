@@ -34,7 +34,7 @@
 | Idiom/Vocabulary | Meaning | Example Sentence |
 |---|---|---|
 |improvise|When actors or musicians improvise, they perform without prepared speech or music, making up the play, music, etc. as they perform it.<br>（演員）即興表演;（音樂家）即興創作|He forgot his lines, so he had to improvise.|
-
+|tedium|the quality of being boring for a long time<br>單調乏味|To succeed, you often need to endure the tedium of learning the basics.|
 # Note
 I usually refer to the Cambridge Dictionary for definitions and example sentences.
 
