@@ -20,7 +20,7 @@
 |quirk|古怪之處||
 |in some instances|在某些情況下、有時||
 |go about something|to begin to do something or deal with something<br>著手做；開始做|How can we go about solving this problem?|
-
+|unanimous|it is formed or supported by everyone in a group.<br>（團體）意見一致的;（決定或裁決）一致通過的，獲得全體支援的|After a lengthy discussion we reached a unanimous decision on the proposal.|
 
 ## IT English
 | Idiom/Vocabulary | Meaning | Example Sentence |
@@ -31,5 +31,5 @@
 ## Business
 
 # Note
-I usually refer to the Cambridge Dictionary for definitions.
+I usually refer to the Cambridge Dictionary for definitions and example sentences.
 
