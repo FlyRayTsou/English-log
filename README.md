@@ -38,6 +38,7 @@
 |insipid|not having a strong taste or character, or having no interest or energy<br>無味的;無特色的;無生氣的;乏味的|How about "Why anyone buys music with such insipid tunes is a mystery.|
 |thrill|a feeling of extreme excitement, usually caused by something pleasant<br>興奮；激動；緊張感|The thrill comes after you get better and can perform well.|
 |mind-blowing|extremely exciting or surprising<br>令人印象深刻的；令人驚奇的|The special effects in this film are pretty mind-blowing.|
+|put up with|to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly<br>忍受，忍耐|If you have the patience to put up with learning the basics, it will become more fun later.|
 # Note
 I usually refer to the Cambridge Dictionary for definitions and example sentences.
 
