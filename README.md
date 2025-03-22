@@ -19,6 +19,7 @@
 |pantry|茶水間||
 |quirk|古怪之處||
 |in some instances|在某些情況下、有時||
+|go about something|to begin to do something or deal with something<br>著手做；開始做|How can we go about solving this problem?|
 
 
 ## IT English
