@@ -30,6 +30,10 @@
 
 ## Business
 
+| Idiom/Vocabulary | Meaning | Example Sentence |
+|---|---|---|
+|hiccup||Generative AI delivers high-quality results and boosts efficiency, but you'll have to put up with occasional hiccups, like fake information.|
+|put up  with||Generative AI delivers high-quality results and boosts efficiency, but you'll have to put up with occasional hiccups, like fake information.|
 ## Ordinary
 | Idiom/Vocabulary | Meaning | Example Sentence |
 |---|---|---|
