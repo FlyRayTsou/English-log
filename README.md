@@ -28,6 +28,12 @@
 |Shoulder||The new company will shoulder my airplane tickets.<br>The previous company shouldered my apartment rent.<br>I shouldered my brother's tuition fee in school<br>The company will pay for ....<br>The company will cover my... |
 |foot the bill||The company will foot the bill of my flight.|
 |afford||We can afford to buy a house in Japan.|
+|hone|to sharpen / to improve a skill|I hone my English skill by taking every opportunity available to practice.|
+|give a heads up|to inform in advance|My boss gave me a heads up that our CEO will join our meeting tomorrow.|
+|consensus|a general agreement from everyone|We all reached a consensus to buy product A<br>Our consensus was to use product A|
+|unanimous|all decision makers made the same decision|The decision to merge our company with a Singaporean company was unanimous|
+|get the ball rolling|to start something|After 5 months of preparation we can finally get the ball rolling with the project|
+
 ### dedication vs contribution
 Dedication seems more focused on investing time and effort, while contribution is more about the impact made.
 
@@ -77,6 +83,13 @@ Dedication seems more focused on investing time and effort, while contribution i
 |mind-blowing|extremely exciting or surprising<br>令人印象深刻的；令人驚奇的|The special effects in this film are pretty mind-blowing.|
 |put up with|to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly<br>忍受，忍耐|If you have the patience to put up with learning the basics, it will become more fun later.|
 |alienated|feeling that you have no connection with the people around you or that you are not part of a group<br>疏離的，疏遠的，不合群的|I will be so alienated from who I am. |
+
+## Pronunciation
+- explain
+- great
+- framework
+
+
 # Note
 I usually refer to the Cambridge Dictionary for definitions and example sentences.
 
