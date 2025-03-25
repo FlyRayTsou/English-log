@@ -69,7 +69,8 @@ Dedication seems more focused on investing time and effort, while contribution i
 - align on our objective - ensure everyone agrees on the goal. we ALIGN on our OBJECTIVE.
 - After considering THE important aspects,
 - During the meeting, everyone SHARES their INSIGHTS.
-- sync up - align or agree on opinions. we SYNC UP on our viewpoints. 
+- sync up - align or agree on opinions. we SYNC UP on our viewpoints.
+- I think we're steering off topic. Let's stick to the agenda, OK?
 
 
 ## IT English
