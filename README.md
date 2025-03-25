@@ -33,6 +33,9 @@
 |consensus|a general agreement from everyone|We all reached a consensus to buy product A<br>Our consensus was to use product A|
 |unanimous|all decision makers made the same decision|The decision to merge our company with a Singaporean company was unanimous|
 |get the ball rolling|to start something|After 5 months of preparation we can finally get the ball rolling with the project|
+|bite-sized|A bite-sized piece of food is small enough to put in your mouth whole.<br>一口能吃下去的；一小塊的|The podcast features bite-sized episodes.|
+|snippets|small pieces of information|quick snippets of content |
+
 
 ### dedication vs contribution
 Dedication seems more focused on investing time and effort, while contribution is more about the impact made.
@@ -57,6 +60,17 @@ Dedication seems more focused on investing time and effort, while contribution i
 - In fact,…
 - According to my research,…
 - Based on my knowledge,…
+
+### Useful Sentences
+- we discuss our VIEWPOINTS to reach our consensus. 
+- and then GATHER/collect the RELEVANT DATA.
+- we might OVERLOOK key considerations.
+- key considerations - important factors or aspects
+- align on our objective - ensure everyone agrees on the goal. we ALIGN on our OBJECTIVE.
+- After considering THE important aspects,
+- During the meeting, everyone SHARES their INSIGHTS.
+- sync up - align or agree on opinions. we SYNC UP on our viewpoints. 
+
 
 ## IT English
 | Idiom/Vocabulary | Meaning | Example Sentence |
