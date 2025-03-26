@@ -61,7 +61,7 @@ Dedication seems more focused on investing time and effort, while contribution i
 - According to my research,…
 - Based on my knowledge,…
 
-### Useful Sentences
+#### Useful Sentences
 - we discuss our VIEWPOINTS to reach our consensus. 
 - and then GATHER/collect the RELEVANT DATA.
 - we might OVERLOOK key considerations.
@@ -71,14 +71,23 @@ Dedication seems more focused on investing time and effort, while contribution i
 - During the meeting, everyone SHARES their INSIGHTS.
 - sync up - align or agree on opinions. we SYNC UP on our viewpoints.
 - I think we're steering off topic. Let's stick to the agenda, OK?
-
+- I'd consider the nationality and population of each AGE GENERATION.
+- We should EVALUATE where our product IS UTILIZED.
+- Our product is utilized BY FEMALES.
+- so we need to ENSURE there’s a SUFFICIENT young market.
+- LET'S GET BACK TO our agenda.
+- In my previous COMPANY, we DIDN'T STEER off topic. Everyone WAS professional, and we STUCK to the agenda. (kept to the agenda)
+- they typically CHAT about their PERSONAL LIVES.
+- AT THE END of the meeting if we have time. 
+- We can CATCH UP on personal matters AFTER the meeting if TIME PERMITS. (time allows)
 
 ## IT English
 | Idiom/Vocabulary | Meaning | Example Sentence |
 |---|---|---|
 |FYI|For your information|Reference: https://www.yesonlineeng.com/cea/|
 |holistic|dealing with or treating the whole of something or someone and not just a part<br>整體的，全面的|That way we have a holistic view of the project.|
-
+|find yourslef -ing, reach out for ~||Whenever you find yourself spending too much time on a bug, reach out for help.|
+|hear from||Once I hear from the product owner, I'll call you|
 ## Business
 
 | Idiom/Vocabulary | Meaning | Example Sentence |
@@ -105,6 +114,7 @@ Dedication seems more focused on investing time and effort, while contribution i
 - great
 - framework
 - debate
+- last
 
 
 # Note
