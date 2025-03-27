@@ -80,6 +80,11 @@ Dedication seems more focused on investing time and effort, while contribution i
 - they typically CHAT about their PERSONAL LIVES.
 - AT THE END of the meeting if we have time. 
 - We can CATCH UP on personal matters AFTER the meeting if TIME PERMITS. (time allows)
+- bring THEIR FOCUS BACK...
+- I will get their attention by asking their opinion and giving hints about the topic.
+- finding common ground
+- Am I  running out of time?
+- Constructive criticism
 
 ## IT English
 | Idiom/Vocabulary | Meaning | Example Sentence |
