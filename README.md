@@ -93,8 +93,10 @@ Dedication seems more focused on investing time and effort, while contribution i
 |holistic|dealing with or treating the whole of something or someone and not just a part<br>整體的，全面的|That way we have a holistic view of the project.|
 |find yourslef -ing, reach out for ~||Whenever you find yourself spending too much time on a bug, reach out for help.|
 |hear from||Once I hear from the product owner, I'll call you|
-## Business
+|on a side note|順帶提及||
+|passionate|having very strong feelings or emotions<br>情緒激昂的，熱情的||
 
+## Business
 | Idiom/Vocabulary | Meaning | Example Sentence |
 |---|---|---|
 |hiccup||Generative AI delivers high-quality results and boosts efficiency, but you'll have to put up with occasional hiccups, like fake information.|
