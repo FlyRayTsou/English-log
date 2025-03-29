@@ -35,7 +35,9 @@
 |get the ball rolling|to start something|After 5 months of preparation we can finally get the ball rolling with the project|
 |bite-sized|A bite-sized piece of food is small enough to put in your mouth whole.<br>一口能吃下去的；一小塊的|The podcast features bite-sized episodes.|
 |snippets|small pieces of information|quick snippets of content |
-
+|amendment|a change or changes made to the words of a text<br>修改，修訂，修正||
+|pleasantry|a polite and often slightly humorous remark, usually made to help other people feel relaxed<br>客套話;打趣的話||
+|email trail, email thread|||
 
 ### dedication vs contribution
 Dedication seems more focused on investing time and effort, while contribution is more about the impact made.
@@ -122,6 +124,8 @@ Dedication seems more focused on investing time and effort, while contribution i
 - framework
 - debate
 - last
+- clarifications
+- main
 
 
 # Note
