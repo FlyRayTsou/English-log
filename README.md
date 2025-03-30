@@ -100,6 +100,7 @@ Dedication seems more focused on investing time and effort, while contribution i
 |be aware of sth, be aware that SV|意識到、注意到||
 |point of view|an opinion<br>觀點，想法||
 |Given(句首)|如果, 考量～||
+|nature|the type or main characteristic of something<br>種類；特性；本質|the cross-functional nature of our team|
 
 ## Business
 | Idiom/Vocabulary | Meaning | Example Sentence |
