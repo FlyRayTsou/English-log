@@ -97,6 +97,9 @@ Dedication seems more focused on investing time and effort, while contribution i
 |hear from||Once I hear from the product owner, I'll call you|
 |on a side note|順帶提及||
 |passionate|having very strong feelings or emotions<br>情緒激昂的，熱情的||
+|be aware of sth, be aware that SV|意識到、注意到||
+|point of view|an opinion<br>觀點，想法||
+|Given(句首)|如果, 考量～||
 
 ## Business
 | Idiom/Vocabulary | Meaning | Example Sentence |
