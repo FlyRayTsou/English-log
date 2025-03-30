@@ -101,6 +101,7 @@ Dedication seems more focused on investing time and effort, while contribution i
 |point of view|an opinion<br>觀點，想法||
 |Given(句首)|如果, 考量～||
 |nature|the type or main characteristic of something<br>種類；特性；本質|the cross-functional nature of our team|
+|check-in|1）問候、打聽近況或確認狀況（取得聯繫）<br>2）在會議中詢問參加者的工作進度等|They serve as check-ins to learn about how everone is progressing on the project.|
 
 ## Business
 | Idiom/Vocabulary | Meaning | Example Sentence |
