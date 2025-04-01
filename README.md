@@ -38,6 +38,8 @@
 |amendment|a change or changes made to the words of a text<br>修改，修訂，修正||
 |pleasantry|a polite and often slightly humorous remark, usually made to help other people feel relaxed<br>客套話;打趣的話||
 |email trail, email thread|||
+|in the loop||Please keep me in the loop about any changes to the project.|
+|circle back||Let’s circle back to this issue at the end of the meeting.|
 
 ### dedication vs contribution
 Dedication seems more focused on investing time and effort, while contribution is more about the impact made.
@@ -130,7 +132,12 @@ Dedication seems more focused on investing time and effort, while contribution i
 |later|/ˈleɪ.t̬ɚ/|
 |latter|/ˈlæt̬.ɚ/|
 |late|/leɪt/|
+|achieve| /əˈtʃiːv/|
+|team| /tiːm/|
 
+- fit
+- feet
+- purpose
 - explain
 - great
 - framework
