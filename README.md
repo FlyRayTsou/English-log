@@ -124,6 +124,13 @@ Dedication seems more focused on investing time and effort, while contribution i
 |take stock|To take stock (of something) is to think carefully about a situation or event and form an opinion about it, so that you can decide what to do.<br>仔細考慮;作出判斷;評估| Why not take stock of how things are going.|
 |breathe down someone's neck|to stay close to someone, watching everything that they do<br>緊緊盯住…;監視…|Not all companies love investors breathing down their necks every quarter|
 ## Pronunciation
+|Vocabulary|Phonetic Alphabet|
+|--|--|
+|matter| /ˈmæt̬.ɚ/|
+|later|/ˈleɪ.t̬ɚ/|
+|latter|/ˈlæt̬.ɚ/|
+|late|/leɪt/|
+
 - explain
 - great
 - framework
@@ -132,6 +139,7 @@ Dedication seems more focused on investing time and effort, while contribution i
 - clarifications
 - main
 - empathize vs emphasize
+- 
 
 
 # Note
