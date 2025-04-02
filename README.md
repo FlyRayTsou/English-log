@@ -23,6 +23,7 @@
 |unanimous|it is formed or supported by everyone in a group.<br>（團體）意見一致的;（決定或裁決）一致通過的，獲得全體支援的|After a lengthy discussion we reached a unanimous decision on the proposal.|
 |get to grips with something|to make an effort to understand and deal with a problem or situation<br>開始理解並著手處理；了解並應付（問題或局面）|And when you get to grips with Nuxt when you build the projects, then you will probably know much more.|
 |future-proof|Future-proof software, computer equipment, etc. is designed so that it can still be used even when technology changes.<br>（軟體、電腦設備等）面向未來的，防過時的||
+|neat|good<br>好的，妙的||
 
 ## Bizmates
 | Idiom/Vocabulary | Meaning | Example Sentence |
