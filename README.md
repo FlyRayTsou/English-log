@@ -33,7 +33,7 @@
 |give a heads up|to inform in advance|My boss gave me a heads up that our CEO will join our meeting tomorrow.|
 |consensus|a general agreement from everyone|We all reached a consensus to buy product A<br>Our consensus was to use product A|
 |unanimous|all decision makers made the same decision|The decision to merge our company with a Singaporean company was unanimous|
-|get the ball rolling|to start something|After 5 months of preparation we can finally get the ball rolling with the project|
+|get the ball rolling|to start something|After 5 months of preparation we can finally get the ball rolling with the project.<br>Let’s get the ball rolling by sharing some initial ideas|
 |bite-sized|A bite-sized piece of food is small enough to put in your mouth whole.<br>一口能吃下去的；一小塊的|The podcast features bite-sized episodes.|
 |snippets|small pieces of information|quick snippets of content |
 |amendment|a change or changes made to the words of a text<br>修改，修訂，修正||
@@ -41,6 +41,8 @@
 |email trail, email thread|||
 |in the loop||Please keep me in the loop about any changes to the project.|
 |circle back||Let’s circle back to this issue at the end of the meeting.|
+|think outside the box|to think imaginatively using new ideas instead of traditional or expected ideas<br>跳出傳統的思維框框，以新的眼光看問題，獨闢蹊徑|We need to think outside the box to find a unique solution.|
+|A lightbulb moment|a moment when you suddenly realize something or have a good idea<br>靈光一現|Oh! I just had a lightbulb moment—we can use social media to promote this!|
 
 ### dedication vs contribution
 Dedication seems more focused on investing time and effort, while contribution is more about the impact made.
@@ -147,6 +149,9 @@ Dedication seems more focused on investing time and effort, while contribution i
 - clarifications
 - main
 - empathize vs emphasize
+
+### Special
+- comfortable → comf-table
 - 
 
 
