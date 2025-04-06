@@ -130,6 +130,8 @@ Dedication seems more focused on investing time and effort, while contribution i
 |alienated|feeling that you have no connection with the people around you or that you are not part of a group<br>疏離的，疏遠的，不合群的|I will be so alienated from who I am. |
 |take stock|To take stock (of something) is to think carefully about a situation or event and form an opinion about it, so that you can decide what to do.<br>仔細考慮;作出判斷;評估| Why not take stock of how things are going.|
 |breathe down someone's neck|to stay close to someone, watching everything that they do<br>緊緊盯住…;監視…|Not all companies love investors breathing down their necks every quarter|
+|worn out|extremely tired<br>筋疲力盡的;極累的||
+
 ## Pronunciation
 |Vocabulary|Phonetic Alphabet|
 |--|--|
