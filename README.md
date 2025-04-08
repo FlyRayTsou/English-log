@@ -97,7 +97,8 @@ Dedication seems more focused on investing time and effort, while contribution i
 - Am I  running out of time?
 - Constructive criticism
 - We HAD TO CALL AN EMERGENCY MEETING to solve the problem as quickly as possible.
-- If everyone’s on board, let's hit the ground running."
+- If everyone’s on board, let's hit the ground running.
+- I was responsible for a generative AI project, where(in which) I held regular project meetings.
 
 ## IT English
 | Idiom/Vocabulary | Meaning | Example Sentence |
