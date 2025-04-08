@@ -145,6 +145,8 @@ Dedication seems more focused on investing time and effort, while contribution i
 |late|/leɪt/|
 |achieve| /əˈtʃiːv/|
 |team| /tiːm/|
+|update|verb /ʌpˈdeɪt/|
+|update|noun /ˈʌp.deɪt/|
 
 - fit
 - feet
